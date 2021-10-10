@@ -11,3 +11,5 @@ Examples of these include:<br>
 3.Homogeneity<br>
 4.Dissimilarity<br>
 5.Correlation.<br>
+## References
+[1] Haralick, R. M., Shanmugam, K., & Dinstein, I. (1973). Textural features for image classification. IEEE Transactions on Systems, Man and Cybernetics SMC, 3(6), 610–621.
